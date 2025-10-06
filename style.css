@@ -43,3 +43,11 @@
 .buzz-navbar .nav h4 { color: white; margin: 0; }
 .buzz-navbar .nav-left h4, .buzz-navbar .nav-right h4 { padding-left: .5rem; padding-right: .5rem; }
 .buzz-logo { height: 70px; }
+
+/* Aloha Beer navbar styles */
+.aloha-navbar { background-color: #f8f9fa; }
+.aloha-navbar .navbar-brand img { width: 110px; }
+.aloha-center .nav-link { color: #000; padding: 0 1rem; }
+.aloha-center .nav-link.shop { color: #EDC601 !important; }
+.aloha-right .nav-link { color: #000; padding: 0 1rem; }
+
