@@ -51,3 +51,10 @@
 .aloha-center .nav-link.shop { color: #EDC601 !important; }
 .aloha-right .nav-link { color: #000; padding: 0 1rem; }
 
+
+/* Duke's Waikiki navbar styles */
+.dukes-navbar { background-color: #017574; color: #ffffff; }
+.dukes-navbar .nav-link { color: #ffffff; padding: 0 1rem; }
+.dukes-navbar .navbar-brand img { width: 200px; }
+.dukes-navbar .dukes-cta { color: #F1A228 !important; font-weight: 600; }
+
