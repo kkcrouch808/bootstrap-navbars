@@ -38,4 +38,8 @@
 }
 .mb-logo { max-height: 48px; }
 
-
+/* Buzz's navbar styles */
+.buzz-navbar { background-color: rgb(48,73,95); color: white; }
+.buzz-navbar .nav h4 { color: white; margin: 0; }
+.buzz-navbar .nav-left h4, .buzz-navbar .nav-right h4 { padding-left: .5rem; padding-right: .5rem; }
+.buzz-logo { height: 70px; }
