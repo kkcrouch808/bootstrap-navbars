@@ -1,0 +1,21 @@
+/* Navbar styles inspired by The Boardroom Kailua */
+.full-navbar {
+	background-color: #133B40;
+}
+.full-navbar .navbar a,
+.full-navbar .navbar-brand,
+.full-navbar .nav-link,
+.full-navbar .btn {
+	color: white !important;
+}
+.boardroom-logo {
+	max-height: 56px;
+}
+.instagram-icon {
+	width: 28px;
+	height: 28px;
+}
+.navbar .container {
+	align-items: center;
+}
+
