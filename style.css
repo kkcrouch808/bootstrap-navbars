@@ -19,3 +19,27 @@
 	align-items: center;
 }
 
+/* Morning Brew navbar styles */
+.mb-navbar .nav-item {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: 2px;
+	padding-bottom: 0.5rem;
+	color: #E33E19;
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	cursor: pointer !important;
+}
+.mb-navbar .nav-item.active {
+	padding-top: 0px;
+	color: black;
+	border-top-width: 3px;
+}
+.mb-logo { max-height: 48px; }
+
+/* Buzz's navbar styles */
+.buzz-navbar { background-color: rgb(48,73,95); color: white; }
+.buzz-navbar .nav h4 { color: white; margin: 0; }
+.buzz-navbar .nav-left h4, .buzz-navbar .nav-right h4 { padding-left: .5rem; padding-right: .5rem; }
+.buzz-logo { height: 70px; }
