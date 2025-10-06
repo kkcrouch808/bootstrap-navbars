@@ -19,3 +19,23 @@
 	align-items: center;
 }
 
+/* Morning Brew navbar styles */
+.mb-navbar .nav-item {
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: 2px;
+	padding-bottom: 0.5rem;
+	color: #E33E19;
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	cursor: pointer !important;
+}
+.mb-navbar .nav-item.active {
+	padding-top: 0px;
+	color: black;
+	border-top-width: 3px;
+}
+.mb-logo { max-height: 48px; }
+
+
